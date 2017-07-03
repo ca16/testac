@@ -1,5 +1,5 @@
 package testac
 
 func PrintSomething() string {
-    return "Work!"
+    return "Work! Or not."
 }
